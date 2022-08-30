@@ -329,3 +329,383 @@ MD5：2e936942613b9ef1a90b5216ef830fbf
 TG：https://tria.ge/220311-23y8nacde4
 
 MD5：22a006b6d19558c3cebd708b2b0543bc
+
+---
+
+**Pandora Ransomware**
+
+Genealogy： Rook >> Pandora
+
+TG：https://tria.ge/220316-jnml7safg8/behavioral1
+
+MD5：0c4a84b66832a08dccc42b478d9d5e1b
+
+---
+
+**CryptoJoker 2022 Ransomware**
+
+Genealogy：CryptoJoker 2020 > CryptoJoker 2021 > CryptoJoker 2022 
+
+TG：https://tria.ge/220311-trwdmadcbj
+
+MD5：964faa0f1a170358e1d0443aba23af2a
+
+---
+
+**AntiWar Ransomware**
+
+Genealogy：
+
+TG：https://tria.ge/220314-wgxvtaafb4/behavioral1
+
+MD5：3b3a50b242841e1789a919b1291051f1
+
+---
+
+**Acepy Ransomware**
+
+Genealogy：
+
+AR：https://app.any.run/tasks/a2d57e5b-de5c-47de-b5f3-26bfc7828318/
+
+MD5：cac20eac09ad235568bd0e2126f9decd
+
+---
+
+**Industrial Spy Ransomware**
+
+Genealogy：
+
+TG：https://tria.ge/220416-vq21fsabe5/behavioral1
+
+MD5：333d29ffe93e71b521057698adf722e3
+
+VS：https://virusshare.com/search
+
+MD5：95d4d597b3065359e471890fc166abfc
+
+VS：https://virusshare.com/search
+
+MD5：011f60dd481f03c21a429f0ef91d4cef
+
+---
+
+**GoodWill Ransomware**
+
+Genealogy：HiddenTear >> GoodWill
+
+VS：https://virusshare.com/search
+
+MD5：cea1cb418a313bdc8e67dbd6b9ea05ad
+
+---
+
+**DoubleZero Ransomware**
+
+Genealogy：
+
+VS：https://virusshare.com/search
+
+MD5：36dc2a5bab2665c88ce407d270954d04
+
+TG：https://tria.ge/220322-pfgnwabdgn/behavioral1
+
+MD5：7d20fa01a703afa8907e50417d27b0a4
+
+VS：https://virusshare.com/search
+
+MD5：989c5de8ce5ca07cc2903098031c7134
+
+VS：https://virusshare.com/search
+
+MD5：b4f0ca61ab0c55a542f32bd4e66a7dc2
+
+---
+
+**Vovabol Ransomware**
+
+Genealogy：
+
+AR：https://app.any.run/tasks/4be02de0-c014-400f-8602-c794497d6be7/
+
+MD5：2b99e5c85cd8b0e6decf30d6daee094e
+
+---
+
+**NB65 Ransomware、ContiStolen Ransomware**
+
+Genealogy：Conti-2 (stolen code) > NB65 (ContiStolen)
+
+VS：https://virusshare.com/search
+
+MD5：f746ea39c0c5ff9d0a1f2d250170ad80
+
+---
+
+**QuickBuck Ransomware Simulator**
+
+Genealogy：Elephant > QuickBuck
+
+TG：https://tria.ge/220522-wqqg4aage6/behavioral1
+
+MD5：5764e41fede27bf9c984242c2b7bfd33
+
+---
+
+**BlockZ Ransomware**
+
+Genealogy：Babuk (modified) + ZZZ Locker >> BlockZ, 7-language Locker
+
+TG：https://tria.ge/220815-2epz3sgegp
+
+MD5：1a21d4620a25968ee64206d524827691
+
+TG：https://tria.ge/220816-z4l9dahch3
+
+MD5：a2086f41bc06adc69517bc0d9c07bf6e
+
+---
+
+**Phantom Ransomware**
+
+----
+
+**ONYX Ransomware**
+
+Genealogy：Chaos Builder v4 >> ONYX
+
+TG：https://tria.ge/220425-1573xaahfn/behavioral2
+
+MD5：cf6ff9e0403b8d89e42ae54701026c1f
+
+---
+
+**TxLocker Ransomware**
+
+---
+
+**StopWarInUkraine Ransowmare**
+
+Genealogy：
+
+TG：https://tria.ge/220603-gdhjdseabp/behavioral1
+
+MD5：cebcd8313ba1ac74b30bc1c81a3a3a8f
+
+---
+
+**Pipikaki Ransomware**
+
+---
+
+**RansomHouse Ransomware**
+
+----
+
+**Kekpop Ransomware**
+
+Genealogy：G0nnaC0pe >> Kekpop,  Kekware, YourCyanide (Cyn)
+
+TG：https://tria.ge/220513-vb15lshdc7/behavioral1
+
+MD5：f190183b6a6f55daa406c25cf5da66d8
+
+VS：https://virusshare.com/search
+
+MD5：c1492fa1cd62246ff192f2383f63afa2
+
+TG：https://tria.ge/220519-wft3jadbgj/behavioral1
+
+MD5：60105b0d25a609bbf93236f003064d2c
+
+---
+
+**Crimson Walrus Ransomware**
+
+----
+
+**WsIR Ransomware**
+
+Genealogy：
+
+TG：https://tria.ge/220522-gx1jbacbgk/behavioral1
+
+MD5：c76aecc1eb0b47fc261a80b9fc06fb75
+
+---
+
+**0mega Ransomware**
+
+---
+
+**EAF Ransomware**
+
+Genealogy：Chaos + other code >> EAF
+
+TG：https://tria.ge/220529-wwbacscgfj/behavioral1
+
+MD5：f477c3bd9d9599a59affb41a8807f8ae
+
+----
+
+**CheckMate Ransomware**
+
+Genealogy：QNAP 
+
+----
+
+**PoliceRecords Ransomware**
+
+Genealogy：
+
+VS：https://virusshare.com/search
+
+MD5：00d77230603c745c638c5de737d1593e
+
+AR：https://app.any.run/tasks/e3230ab2-2d91-457c-8d99-a43bea2b8511/
+
+MD5：da1224121dd02b18891f0557d94e32ae
+
+AR：https://app.any.run/tasks/1c3a9f2b-fb05-4fb1-878f-92dbb770e78f/
+
+MD5：dfcfb3d614fd1b89a6f52edb48e8285e
+
+---
+
+**Kawaii Anime Ransomware**
+
+Genealogy：
+
+TG：https://tria.ge/220612-hk1tzsaedr/behavioral1
+
+MD5：f0eef7dc5ba068dd99fe8a031c183f64
+
+---
+
+**7-language Ransomware**
+
+---
+
+**Kanalia Ransomware**
+
+Genealogy：
+
+TG：https://tria.ge/220624-ke9k2sdhb8/behavioral1
+
+MD5：0700f3bffdbbf5ecc2a9c63f8b3742a8
+
+---
+
+**Agenda Ransomware**
+
+Genealogy：Go-ransomware >> Agenda
+
+TG：https://tria.ge/220629-m1cvbaghfq/behavioral1
+
+MD5：a7ab0969bf6641cd0c7228ae95f6d217
+
+---
+
+**Play Ransomware**
+
+----
+
+**Datastor2021 Ransomware**
+
+---
+
+**RedTeam Ransomware**
+
+Genealogy：Babuk >> RedTeam
+
+TG：https://tria.ge/220628-m63mxsagf5/behavioral1
+
+MD5：b1506fec2b3988ff33fb5e6c5076439d
+
+TG：https://tria.ge/220628-m6zk9sagf4/behavioral1
+
+MD5：344d23c036cf33a82cf9a454a90ff274
+
+---
+
+**BlueSky Ransomware**
+
+Genealogy： Conti + other code >> BlueSky
+
+TG：https://tria.ge/220628-ppntjshddq/behavioral1
+
+MD5：d8a44d2ed34b5fee7c8e24d998f805d9
+
+---
+
+**Lilith Ransomware**
+
+Genealogy：
+
+TG：https://tria.ge/220708-l97klsdfh3
+
+MD5：d8a44d2ed34b5fee7c8e24d998f805d9
+
+---
+
+**RedAlert(N13V) Ransomware**
+
+Genealogy：
+
+TG：https://tria.ge/220706-cemghsfeep/behavioral1
+
+MD5：f2fa9a3ce883a7f5b43ba5c9ff7bdf75
+
+---
+
+**BianLian Ransomware**
+
+Genealogy：
+
+VS：https://virusshare.com/search
+
+MD5：0c756fc8f34e409650cd910b5e2a3f00
+
+---
+
+**Stop24/7 Ransomware**
+
+---
+
+**HolyGhost Ransomware**
+
+Genealogy：H0lyGh0st 2021 > H0lyGh0st 2022
+
+TG：https://tria.ge/220715-kyb4wsabd2/behavioral1
+
+MD5：aa4e99b717bcb7e916148a469e69788a
+
+TG：https://tria.ge/220716-gza2fahcg3
+
+MD5：54ca404d16db18d233c606b48c73d66f
+
+---
+
+**GwisinLocker Ransomware**
+
+---
+
+**Rever Ransomware**
+
+---
+
+**Luna Ransomware**
+
+---
+
+**Filerec Ransomware**
+
+---
+
+**Moisha Ransomware**
+
+Genealogy：
+
+TG：https://tria.ge/220826-jwaydaaeg2
+
+MD5：d197883d8745a61fe25aebea85622a65
